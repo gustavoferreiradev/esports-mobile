@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="eSports" title="eSports" src=".github/logo.png" />
+  <img alt="eSports" title="eSports" src=".github/Logo.png" />
 </h1>
 
 <p align="center">
